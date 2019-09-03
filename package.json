@@ -1,5 +1,5 @@
 {
-  "name": "@visulabi/react-sortable-hoc",
+  "name": "@visualbi/react-sortable-hoc",
   "version": "0.8.5-rc3",
   "description": "Set of higher-order components to turn any list into a sortable, touch-friendly, animated list",
   "author": {
@@ -9,7 +9,7 @@
   "user": "clauderic",
   "homepage": "https://github.com/clauderic/react-sortable-hoc",
   "main": "dist/commonjs/index.js",
-  "jsnext:main": "dist/es6/index.js",
+  "jsnext:main": "dist/es6/index.js",  
   "types": "types/index.d.ts",
   "license": "MIT",
   "repository": {
