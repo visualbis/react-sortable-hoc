@@ -262,7 +262,7 @@ export default function sortableContainer(
         const margin = getElementMargin(node);
         const containerBoundingRect = this.scrollContainer.getBoundingClientRect();
         const dimensions = getHelperDimensions({collection, index, node});
-
+        
         this.node = node;
         this.margin = margin;
         this.width = dimensions.width;
